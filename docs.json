@@ -24,7 +24,15 @@
           {
          "group": "Employee",
             "pages": [
-              "employee-docs/overview"
+              "employee-docs/overview",
+              {
+                "group": "Core Features",
+                "pages": [
+                  "employee-docs/self-service",
+                  "employee-docs/project-management",
+                  "employee-docs/admin-dashboard"
+                ]
+              }
             ]     
           },
           {
