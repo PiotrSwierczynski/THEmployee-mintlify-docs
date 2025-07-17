@@ -19,7 +19,9 @@
               "index",
               "quickstart",
               "development"
-            ],
+            ]
+          },
+          {
          "group": "Employee",
             "pages": [
               "employee-docs/overview"
